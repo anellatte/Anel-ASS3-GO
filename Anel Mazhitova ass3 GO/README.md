@@ -1,0 +1,1 @@
+# Anel Mazhitova ass3 Design Patterns
